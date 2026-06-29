@@ -1,6 +1,6 @@
 # Hi, I'm Lizam
 
-Information Systems student at Universitas Negeri Surabaya (UNESA), passionate about turning data into decisions. I enjoy the full spectrum of data work — from exploratory analysis and machine learning to building interactive tools that make insights accessible.
+Information Systems student, passionate about turning data into decisions. I enjoy the full spectrum of data work — from exploratory analysis and machine learning to building interactive tools that make insights accessible.
 
 ## What I work with
 
