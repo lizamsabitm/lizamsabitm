@@ -15,10 +15,10 @@ Information Systems student at Universitas Negeri Surabaya (UNESA), passionate a
 |---------|-------------|-------|
 | [Crop Recommendation System](https://github.com/lizamsabitm/Sistem-Klasifikasi-Lahan-Rekomendasi-Tanaman) | Land zone classification + crop recommendation using K-Means & XGBoost. Deployed on Streamlit. | Python · XGBoost · Streamlit |
 | KosLink | Full-stack boarding house rental platform with booking & payment system | Laravel · MySQL · Tailwind |
-| ResQ UI/UX | Ambulance app redesign using Design Thinking — 6.4/7 SEQ usability score | Figma · Maze |
+| ResQ UI/UX | Ambulance app design using Design Thinking — 6.4/7 SEQ usability score | Figma · Maze |
 
 ## Writing
-I document my design & data projects on [Medium](https://medium.com/@lizamsabitm)
+I document my data projects & design on [Medium](https://medium.com/@lizamsabitm)
 
 ## Let's connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lizam%20Sabit-blue?logo=linkedin)](https://linkedin.com/in/lizamsabitm)
