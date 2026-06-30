@@ -14,7 +14,7 @@ Information Systems student, passionate about turning data into decisions. I enj
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [Crop Recommendation System](https://github.com/lizamsabitm/Sistem-Klasifikasi-Lahan-Rekomendasi-Tanaman) | Land zone classification + crop recommendation using K-Means & XGBoost. Deployed on Streamlit. | Python · XGBoost · Streamlit |
-| [KosLink](https://koslink-app.onrender.com) | Full-stack boarding house rental platform with booking & payment system | Laravel · MySQL · Tailwind |
+| [KosLink]([https://koslink-app.onrender.com](https://github.com/lizamsabitm/koslink-app)) | Full-stack boarding house rental platform with booking & payment system | Laravel · MySQL · Tailwind |
 | [ResQ](https://medium.com/@lizamsabitm/ui-ux-redesign-app-resq-7c2f9581f815?sharedUserId=lizamsabitm) | Ambulance app design using Design Thinking — 6.4/7 SEQ usability score | Figma · Maze |
 
 ## Writing
